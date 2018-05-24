@@ -2,7 +2,7 @@
 
 git clone https://github.com/test728/android_device_xiaomi_mido -b oreo-treble device/xiaomi/mido
 git clone https://github.com/test728/android_device_xiaomi_msm8953-common -b oreo-treble device/xiaomi/msm8953-common
-git clone https://github.com/test728/proprietary_vendor_xiaomi-1 -b oreo-treble vendor/xiaomi
+git clone https://github.com/test728/proprietary_vendor_xiaomi-1 -b lineage-15.1 vendor/xiaomi
 git clone https://github.com/Adesh15/android_kernel_xiaomi_msm8953 -b treble kernel/xiaomi/msm8953
 
 #HALS
