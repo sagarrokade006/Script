@@ -1,7 +1,7 @@
 #DEVICE
 
 git clone https://github.com/AmolAmrit/device_xiaomi_kenzo -b oreo device/xiaomi/kenzo
-git clone https://github.com/AmolAmrit/device_xiaomi_msm8956-common -b oreo device/xiaomi/msm8953-common
+git clone https://github.com/AmolAmrit/device_xiaomi_msm8956-common -b oreo device/xiaomi/msm8956-common
 git clone https://github.com/AmolAmrit/Escrima_kernel_xiaomi_msm8956 -b oreo kernel/xiaomi/msm8956
 git clone https://github.com/AmolAmrit/proprietary_vendor_xiaomi -b oreo vendor/xiaomi
 
