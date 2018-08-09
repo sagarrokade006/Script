@@ -1,9 +1,8 @@
 #DEVICES
-
-
-
-
-
+git clone https://github.com/CandyDevices/device_xiaomi_msm8956-common -b c8.1-rebase device/xiaomi/msm8956-common
+git clone https://github.com/CandyDevices/device_xiaomi_kenzo -b c8.1-rebase device/xiaomi/kenzo
+git clone https://github.com/Nickdv9/android_kernel_xiaomi_msm8956 -b c8.1-rebase kernel/xiaomi/msm8956
+git clone https://github.com/AmolAmrit/proprietary_vendor_xiaomi -b oreo vendor/xiaomi
 
 #HALS
 rm -rf hardware/qcom/audio-caf/msm8952
